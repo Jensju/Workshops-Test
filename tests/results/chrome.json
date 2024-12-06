@@ -1,0 +1,1303 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "as-a-user--after-pressing-help-i-want-to-come-back-to-the-same-page.;you-will-come-back-to-the-same-page-after-checking-help-function-at-all-location-\"outside-the-cafe\"",
+        "keyword": "Scenario Outline",
+        "line": 13,
+        "name": "you will come back to the same page after checking help function at all location \"outside the cafe\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 408321468
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "that I have navigated to the position \"outside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6172860
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that my position is \"outside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4870545
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I click on the button \"Help\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 38309189
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "I click on the button \"Continue\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 46613811
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"outside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3277044
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-user--after-pressing-help-i-want-to-come-back-to-the-same-page.;you-will-come-back-to-the-same-page-after-checking-help-function-at-all-location-\"inside-the-cafe\"",
+        "keyword": "Scenario Outline",
+        "line": 14,
+        "name": "you will come back to the same page after checking help function at all location \"inside the cafe\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 81295274
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "that I have navigated to the position \"inside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 68471926
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3389459
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I click on the button \"Help\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 44813936
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "I click on the button \"Continue\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47863414
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"inside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3723109
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-user--after-pressing-help-i-want-to-come-back-to-the-same-page.;you-will-come-back-to-the-same-page-after-checking-help-function-at-all-location-\"on-an-empty-street\"",
+        "keyword": "Scenario Outline",
+        "line": 15,
+        "name": "you will come back to the same page after checking help function at all location \"on an empty street\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 81609820
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "that I have navigated to the position \"on an empty street\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47176057
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that my position is \"on an empty street\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4193709
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I click on the button \"Help\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 48938374
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "I click on the button \"Continue\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47294023
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"on an empty street\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3662404
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-user--after-pressing-help-i-want-to-come-back-to-the-same-page.;you-will-come-back-to-the-same-page-after-checking-help-function-at-all-location-\"in-a-crowded-bar\"",
+        "keyword": "Scenario Outline",
+        "line": 16,
+        "name": "you will come back to the same page after checking help function at all location \"in a crowded bar\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 79369033
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "that I have navigated to the position \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 99847486
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that my position is \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3687349
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I click on the button \"Help\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 50696580
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "I click on the button \"Continue\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 44300642
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3119884
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-user--after-pressing-help-i-want-to-come-back-to-the-same-page.;you-will-come-back-to-the-same-page-after-checking-help-function-at-all-location-\"in-the-country-side\"",
+        "keyword": "Scenario Outline",
+        "line": 17,
+        "name": "you will come back to the same page after checking help function at all location \"in the country-side\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 77203478
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "that I have navigated to the position \"in the country-side\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 60520905
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that my position is \"in the country-side\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3092671
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I click on the button \"Help\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 44465503
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "I click on the button \"Continue\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 32256733
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"in the country-side\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3783168
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-user--after-pressing-help-i-want-to-come-back-to-the-same-page.;you-will-come-back-to-the-same-page-after-checking-help-function-at-all-location-\"at-the-concert\"",
+        "keyword": "Scenario Outline",
+        "line": 18,
+        "name": "you will come back to the same page after checking help function at all location \"at the concert\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 79322078
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "that I have navigated to the position \"at the concert\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 104126803
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that my position is \"at the concert\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3199590
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I click on the button \"Help\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 43598373
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "I click on the button \"Continue\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 34534136
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"at the concert\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3689765
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "as-a-user--after-pressing-help-i-want-to-come-back-to-the-same-page.",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "As a user  after pressing help I want to come back to the same page.",
+    "tags": [],
+    "uri": "tests/features/help-button.feature"
+  },
+  {
+    "description": "  As a user I want to check that I lose the game waiting repeatedly, regardless of the location I am at.",
+    "elements": [
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"outside-the-cafe\"",
+        "keyword": "Scenario Outline",
+        "line": 13,
+        "name": "You will lose the game by waiting enough times at the location \"outside the cafe\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 78369854
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I have navigated to the position \"outside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3425698
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"outside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4123526
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 350794160
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3281595
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"inside-the-cafe\"",
+        "keyword": "Scenario Outline",
+        "line": 14,
+        "name": "You will lose the game by waiting enough times at the location \"inside the cafe\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 77003246
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I have navigated to the position \"inside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 54364056
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3380244
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1686265873
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3226032
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"on-an-empty-street\"",
+        "keyword": "Scenario Outline",
+        "line": 15,
+        "name": "You will lose the game by waiting enough times at the location \"on an empty street\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 81516515
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I have navigated to the position \"on an empty street\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 50819540
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"on an empty street\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3055702
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 986695103
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3316161
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"in-a-crowded-bar\"",
+        "keyword": "Scenario Outline",
+        "line": 16,
+        "name": "You will lose the game by waiting enough times at the location \"in a crowded bar\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 83506968
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I have navigated to the position \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 98786888
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3101731
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1671987657
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3065812
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"in-the-country-side\"",
+        "keyword": "Scenario Outline",
+        "line": 17,
+        "name": "You will lose the game by waiting enough times at the location \"in the country-side\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 80766261
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I have navigated to the position \"in the country-side\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 52568710
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"in the country-side\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3474647
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 969183151
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3830749
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "i-lose-the-game-by-waiting;you-will-lose-the-game-by-waiting-enough-times-at-the-location-\"at-the-concert\"",
+        "keyword": "Scenario Outline",
+        "line": 18,
+        "name": "You will lose the game by waiting enough times at the location \"at the concert\"",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 85122359
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that I have navigated to the position \"at the concert\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 97677648
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "that my position is \"at the concert\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3404670
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I wait repeatedly until I die",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 352389511
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "my position should be \"I died\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3653738
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "i-lose-the-game-by-waiting",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "I lose the game by waiting",
+    "tags": [],
+    "uri": "tests/features/lose-the-game.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso;receiveing-a-beer-from-the-bartender",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Receiveing a beer from the bartender",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 76473364
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "that I have navigated to the position \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 102525725
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that my position is \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2956805
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I wait long enough for the description to contain the text \"The bartender offers you a can of beer for free\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 52912682
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "my hipster bag should contain \"a can of beer\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3562649
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso;someone-in-the-audience-throws-you-a-fiver",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Someone in the audience throws you a fiver",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 11,
+            "name": "that I have navigated to the position \"at the concert\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 194041261
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "that my position is \"at the concert\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2952796
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "I wait long enough for the description to contain the text \"jam with us\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 188265495
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "I click on the button \"Jam with the band\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 52615399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 15,
+            "name": "your money inscreases to 15",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:48"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4138186
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso;i-should-give-a-beer-to-barista",
+        "keyword": "Scenario",
+        "line": 17,
+        "name": "I should give a beer to barista",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 18,
+            "name": "that I have navigated to the position \"inside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 147613298
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3170215
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "I wait long enough for the description to contain the text \"if someone would just bring me a beer\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 101136124
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "I click on the button \"Give beer to barista\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 47481802
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "my hipster bag should contain \"nothing cool\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3015602
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso;win-the-game",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "Win the game",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 25,
+            "name": "the description contain the text \"He pours you a double espresso\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:65"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2884827
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "I click repeatedly button \"Buy an espresso\" until I win",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:69"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 151178738
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 27,
+            "name": "my position should be \"I won\"",
+            "match": {
+              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3597671
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "As a player I want to win in case i get 5 espresso",
+    "tags": [],
+    "uri": "tests/features/win-the-game.feature"
+  }
+]
