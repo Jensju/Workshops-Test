@@ -14,7 +14,7 @@ Feature: As a player I want to win in case i get 5 espresso
         Then I click on the button "Jam with the band"
         Then your money inscreases to 15
 
-    Scenario: I should give a beer to barista
+    Scenario: I should give a beer to the barista
         Given that I have navigated to the position "inside the cafe"
         And that my position is "inside the cafe"
         When I wait long enough for the description to contain the text "if someone would just bring me a beer"

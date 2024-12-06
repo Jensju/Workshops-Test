@@ -59,7 +59,7 @@ Then('your money inscreases to {float}', async function (expectedMoney) {
   console.log(moneyN, expectedMoney)
 });
 
-//I should give a beer to barista
+//I should give a beer to the barista
 
 //Win the game
 When('the description contain the text {string}', async function (b) {

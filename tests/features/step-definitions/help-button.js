@@ -4,5 +4,5 @@ import { navigateTo, getWhereIAm, getMenuChoiceElement } from './helpers.js'
 
 
 /*
-All steps repeated from the other step-definitions.
+All steps repeated from the other step-definitions (win-the-game).
 */
