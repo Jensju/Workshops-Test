@@ -1,0 +1,10 @@
+Feature: Klick on a play button
+  As a user I want to be able to navigate the game through the buttons in the footer nav-bar.
+
+  Scenario: At the right place with the right starting values
+    Given that I have started the game at "http://localhost:3000"
+    And that my position is "outside the cafe"
+    Then the value of my "Health" should be 50
+    And the value of my "Money" should be 10
+    And the value of my "Espressos" should be 0
+    And my hipster bag should contain "nothing cool"

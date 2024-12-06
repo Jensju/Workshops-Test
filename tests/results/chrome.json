@@ -1,0 +1,223 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "all-play--buttons-should-be-present-and-work-correctly-after-clicking-them;checking-button-enter-the-caffe",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Checking button Enter the caffe",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that game is starded with joining game \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/buttons.js:5"
+            },
+            "result": {
+              "status": "passed",
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "that there are available all buttons \"Enter the cafe\", \"Wait\", \"Go north\", \"Go south\", \"Help\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/buttons.js:13"
+            },
+            "result": {
+              "status": "passed",
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "button \"Enter the cafe\" is clicked",
+            "result": {
+              "status": "undefined",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "should be changed \"view\", \"text\" and available button \"Buy an espresso\"",
+            "result": {
+              "status": "undefined",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "all-play--buttons-should-be-present-and-work-correctly-after-clicking-them;checking-button-wait",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "Checking button Wait",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that game is starded with joining game \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/buttons.js:5"
+            },
+            "result": {
+              "status": "passed",
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "that there are available all buttons \"Enter the cafe\", \"Wait\", \"Go north\", \"Go south\", \"Help\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/buttons.js:13"
+            },
+            "result": {
+              "status": "passed",
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "button \"Wait\" is pressed",
+            "result": {
+              "status": "undefined",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "\"Health\" should be decreased and color changed to red",
+            "result": {
+              "status": "undefined",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "all-play--buttons-should-be-present-and-work-correctly-after-clicking-them",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "All play  Buttons should be present and work correctly after clicking them",
+    "tags": [],
+    "uri": "tests/features/buttons.feature"
+  },
+  {
+    "description": "  As a user I want to be able to turn on and of a \n  full screen mode when playing the game.",
+    "elements": [
+      {
+        "description": "",
+        "id": "changing-the-window-to-full-screen-mode;turning-on-full-screen-mode",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "Turning on full screen mode",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "that I have started the game at \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/fullScreen.js:7"
+            },
+            "result": {
+              "status": "passed",
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I click the full screen button",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/fullScreen.js:11"
+            },
+            "result": {
+              "status": "passed",
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I should get a full screen mode",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/fullScreen.js:16"
+            },
+            "result": {
+              "status": "passed",
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "changing-the-window-to-full-screen-mode",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Changing the window to full screen mode",
+    "tags": [],
+    "uri": "tests/features/fullScreen.feature"
+  }
+]
