@@ -60,6 +60,7 @@ Then('your money inscreases to {float}', async function (expectedMoney) {
 });
 
 //I should give a beer to the barista
+//Repeated from earlier steps.
 
 //Win the game
 When('the description contain the text {string}', async function (b) {
