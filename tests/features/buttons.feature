@@ -1,7 +1,7 @@
 Feature: All play  Buttons should be present and work correctly after clicking them
 
   Background: We have started a game
-    Given that game is starded with joining game "http://localhost:3000"
+    Given that game is started with joining game "http://localhost:3000"
     Then that there are available all buttons "Enter the cafe", "Wait", "Go north", "Go south", "Help"
 
   Scenario: Checking button Enter the caffe

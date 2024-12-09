@@ -14,18 +14,20 @@
             "hidden": true,
             "result": {
               "status": "passed",
+              "duration": 2759066206
             }
           },
           {
             "arguments": [],
             "keyword": "Given ",
             "line": 4,
-            "name": "that game is starded with joining game \"http://localhost:3000\"",
+            "name": "that game is started with joining game \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/buttons.js:5"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/buttons.js:6"
             },
             "result": {
               "status": "passed",
+              "duration": 448622892
             }
           },
           {
@@ -34,10 +36,11 @@
             "line": 5,
             "name": "that there are available all buttons \"Enter the cafe\", \"Wait\", \"Go north\", \"Go south\", \"Help\"",
             "match": {
-              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/buttons.js:13"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/buttons.js:14"
             },
             "result": {
               "status": "passed",
+              "duration": 2495010
             }
           },
           {
@@ -45,9 +48,12 @@
             "keyword": "When ",
             "line": 8,
             "name": "button \"Enter the cafe\" is clicked",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/buttons.js:33"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 476384231
             }
           },
           {
@@ -55,9 +61,12 @@
             "keyword": "Then ",
             "line": 9,
             "name": "should be changed \"view\", \"text\" and available button \"Buy an espresso\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/buttons.js:40"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 64194563
             }
           },
           {
@@ -65,6 +74,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
+              "duration": 64670878
             }
           }
         ],
@@ -83,18 +93,20 @@
             "hidden": true,
             "result": {
               "status": "passed",
+              "duration": 1417225675
             }
           },
           {
             "arguments": [],
             "keyword": "Given ",
             "line": 4,
-            "name": "that game is starded with joining game \"http://localhost:3000\"",
+            "name": "that game is started with joining game \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/buttons.js:5"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/buttons.js:6"
             },
             "result": {
               "status": "passed",
+              "duration": 1250484108
             }
           },
           {
@@ -103,10 +115,11 @@
             "line": 5,
             "name": "that there are available all buttons \"Enter the cafe\", \"Wait\", \"Go north\", \"Go south\", \"Help\"",
             "match": {
-              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/buttons.js:13"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/buttons.js:14"
             },
             "result": {
               "status": "passed",
+              "duration": 1127130
             }
           },
           {
@@ -114,9 +127,12 @@
             "keyword": "When ",
             "line": 12,
             "name": "button \"Wait\" is pressed",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/buttons.js:61"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 72156786
             }
           },
           {
@@ -124,9 +140,12 @@
             "keyword": "Then ",
             "line": 13,
             "name": "\"Health\" should be decreased and color changed to red",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/buttons.js:68"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 54577463
             }
           },
           {
@@ -134,6 +153,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
+              "duration": 56363251
             }
           }
         ],
@@ -163,6 +183,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
+              "duration": 1386922848
             }
           },
           {
@@ -171,10 +192,11 @@
             "line": 6,
             "name": "that I have started the game at \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/fullScreen.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/fullScreen.js:7"
             },
             "result": {
               "status": "passed",
+              "duration": 751382634
             }
           },
           {
@@ -183,10 +205,11 @@
             "line": 7,
             "name": "I click the full screen button",
             "match": {
-              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/fullScreen.js:11"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/fullScreen.js:11"
             },
             "result": {
               "status": "passed",
+              "duration": 2236183368
             }
           },
           {
@@ -195,10 +218,11 @@
             "line": 8,
             "name": "I should get a full screen mode",
             "match": {
-              "location": "file:/Users/jenssjunnesson/GitHub-project/Testautomatisering_Workshops/tests/features/step-definitions/fullScreen.js:16"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/fullScreen.js:16"
             },
             "result": {
               "status": "passed",
+              "duration": 11531180
             }
           },
           {
@@ -206,6 +230,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
+              "duration": 52641214
             }
           }
         ],
