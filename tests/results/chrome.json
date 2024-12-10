@@ -15,11 +15,11 @@
             "line": 4,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 408321468
+              "duration": 436717907
             }
           },
           {
@@ -28,11 +28,11 @@
             "line": 5,
             "name": "that I have navigated to the position \"outside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 6172860
+              "duration": 6815589
             }
           },
           {
@@ -41,11 +41,11 @@
             "line": 6,
             "name": "that my position is \"outside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 4870545
+              "duration": 5448742
             }
           },
           {
@@ -54,11 +54,11 @@
             "line": 7,
             "name": "I click on the button \"Help\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 38309189
+              "duration": 61618359
             }
           },
           {
@@ -67,11 +67,11 @@
             "line": 8,
             "name": "I click on the button \"Continue\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 46613811
+              "duration": 42152147
             }
           },
           {
@@ -80,11 +80,11 @@
             "line": 9,
             "name": "my position should be \"outside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3277044
+              "duration": 5030200
             }
           }
         ],
@@ -104,11 +104,11 @@
             "line": 4,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 81295274
+              "duration": 89763830
             }
           },
           {
@@ -117,11 +117,11 @@
             "line": 5,
             "name": "that I have navigated to the position \"inside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 68471926
+              "duration": 58451634
             }
           },
           {
@@ -130,11 +130,11 @@
             "line": 6,
             "name": "that my position is \"inside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3389459
+              "duration": 4086614
             }
           },
           {
@@ -143,11 +143,11 @@
             "line": 7,
             "name": "I click on the button \"Help\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 44813936
+              "duration": 39501660
             }
           },
           {
@@ -156,11 +156,11 @@
             "line": 8,
             "name": "I click on the button \"Continue\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 47863414
+              "duration": 32230666
             }
           },
           {
@@ -169,11 +169,11 @@
             "line": 9,
             "name": "my position should be \"inside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3723109
+              "duration": 3911037
             }
           }
         ],
@@ -193,11 +193,11 @@
             "line": 4,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 81609820
+              "duration": 83866949
             }
           },
           {
@@ -206,11 +206,11 @@
             "line": 5,
             "name": "that I have navigated to the position \"on an empty street\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 47176057
+              "duration": 46284434
             }
           },
           {
@@ -219,11 +219,11 @@
             "line": 6,
             "name": "that my position is \"on an empty street\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 4193709
+              "duration": 3794011
             }
           },
           {
@@ -232,11 +232,11 @@
             "line": 7,
             "name": "I click on the button \"Help\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 48938374
+              "duration": 46630173
             }
           },
           {
@@ -245,11 +245,11 @@
             "line": 8,
             "name": "I click on the button \"Continue\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 47294023
+              "duration": 47295646
             }
           },
           {
@@ -258,11 +258,11 @@
             "line": 9,
             "name": "my position should be \"on an empty street\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3662404
+              "duration": 3174036
             }
           }
         ],
@@ -282,11 +282,11 @@
             "line": 4,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 79369033
+              "duration": 85735836
             }
           },
           {
@@ -295,11 +295,11 @@
             "line": 5,
             "name": "that I have navigated to the position \"in a crowded bar\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 99847486
+              "duration": 111198890
             }
           },
           {
@@ -308,11 +308,11 @@
             "line": 6,
             "name": "that my position is \"in a crowded bar\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3687349
+              "duration": 3456135
             }
           },
           {
@@ -321,11 +321,11 @@
             "line": 7,
             "name": "I click on the button \"Help\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 50696580
+              "duration": 45352358
             }
           },
           {
@@ -334,11 +334,11 @@
             "line": 8,
             "name": "I click on the button \"Continue\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 44300642
+              "duration": 37435507
             }
           },
           {
@@ -347,11 +347,11 @@
             "line": 9,
             "name": "my position should be \"in a crowded bar\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3119884
+              "duration": 3396104
             }
           }
         ],
@@ -371,11 +371,11 @@
             "line": 4,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 77203478
+              "duration": 82940296
             }
           },
           {
@@ -384,11 +384,11 @@
             "line": 5,
             "name": "that I have navigated to the position \"in the country-side\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 60520905
+              "duration": 48340575
             }
           },
           {
@@ -397,11 +397,11 @@
             "line": 6,
             "name": "that my position is \"in the country-side\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3092671
+              "duration": 3650241
             }
           },
           {
@@ -410,11 +410,11 @@
             "line": 7,
             "name": "I click on the button \"Help\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 44465503
+              "duration": 45202135
             }
           },
           {
@@ -423,11 +423,11 @@
             "line": 8,
             "name": "I click on the button \"Continue\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 32256733
+              "duration": 33851763
             }
           },
           {
@@ -436,11 +436,11 @@
             "line": 9,
             "name": "my position should be \"in the country-side\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3783168
+              "duration": 3422558
             }
           }
         ],
@@ -460,11 +460,11 @@
             "line": 4,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 79322078
+              "duration": 86472221
             }
           },
           {
@@ -473,11 +473,11 @@
             "line": 5,
             "name": "that I have navigated to the position \"at the concert\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 104126803
+              "duration": 94242460
             }
           },
           {
@@ -486,11 +486,11 @@
             "line": 6,
             "name": "that my position is \"at the concert\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3199590
+              "duration": 3738786
             }
           },
           {
@@ -499,11 +499,11 @@
             "line": 7,
             "name": "I click on the button \"Help\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 43598373
+              "duration": 44961795
             }
           },
           {
@@ -512,11 +512,11 @@
             "line": 8,
             "name": "I click on the button \"Continue\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 34534136
+              "duration": 32588133
             }
           },
           {
@@ -525,11 +525,11 @@
             "line": 9,
             "name": "my position should be \"at the concert\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3689765
+              "duration": 3454875
             }
           }
         ],
@@ -560,11 +560,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 78369854
+              "duration": 86306825
             }
           },
           {
@@ -573,11 +573,11 @@
             "line": 6,
             "name": "that I have navigated to the position \"outside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 3425698
+              "duration": 6251205
             }
           },
           {
@@ -586,11 +586,11 @@
             "line": 7,
             "name": "that my position is \"outside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 4123526
+              "duration": 3353289
             }
           },
           {
@@ -599,11 +599,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/lose-the-game.js:21"
             },
             "result": {
               "status": "passed",
-              "duration": 350794160
+              "duration": 356419611
             }
           },
           {
@@ -612,11 +612,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3281595
+              "duration": 3310348
             }
           }
         ],
@@ -636,11 +636,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 77003246
+              "duration": 91192580
             }
           },
           {
@@ -649,11 +649,11 @@
             "line": 6,
             "name": "that I have navigated to the position \"inside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 54364056
+              "duration": 55172242
             }
           },
           {
@@ -662,11 +662,11 @@
             "line": 7,
             "name": "that my position is \"inside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3380244
+              "duration": 3091752
             }
           },
           {
@@ -675,11 +675,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/lose-the-game.js:21"
             },
             "result": {
               "status": "passed",
-              "duration": 1686265873
+              "duration": 1778671123
             }
           },
           {
@@ -688,11 +688,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3226032
+              "duration": 3443178
             }
           }
         ],
@@ -712,11 +712,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 81516515
+              "duration": 83928543
             }
           },
           {
@@ -725,11 +725,11 @@
             "line": 6,
             "name": "that I have navigated to the position \"on an empty street\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 50819540
+              "duration": 44718446
             }
           },
           {
@@ -738,11 +738,11 @@
             "line": 7,
             "name": "that my position is \"on an empty street\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3055702
+              "duration": 2982363
             }
           },
           {
@@ -751,11 +751,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/lose-the-game.js:21"
             },
             "result": {
               "status": "passed",
-              "duration": 986695103
+              "duration": 964653860
             }
           },
           {
@@ -764,11 +764,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3316161
+              "duration": 3484880
             }
           }
         ],
@@ -788,11 +788,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 83506968
+              "duration": 91930797
             }
           },
           {
@@ -801,11 +801,11 @@
             "line": 6,
             "name": "that I have navigated to the position \"in a crowded bar\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 98786888
+              "duration": 103670673
             }
           },
           {
@@ -814,11 +814,11 @@
             "line": 7,
             "name": "that my position is \"in a crowded bar\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3101731
+              "duration": 3528746
             }
           },
           {
@@ -827,11 +827,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/lose-the-game.js:21"
             },
             "result": {
               "status": "passed",
-              "duration": 1671987657
+              "duration": 1587202676
             }
           },
           {
@@ -840,11 +840,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3065812
+              "duration": 3542405
             }
           }
         ],
@@ -864,11 +864,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 80766261
+              "duration": 87470301
             }
           },
           {
@@ -877,11 +877,11 @@
             "line": 6,
             "name": "that I have navigated to the position \"in the country-side\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 52568710
+              "duration": 43732041
             }
           },
           {
@@ -890,11 +890,11 @@
             "line": 7,
             "name": "that my position is \"in the country-side\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3474647
+              "duration": 3674486
             }
           },
           {
@@ -903,11 +903,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/lose-the-game.js:21"
             },
             "result": {
               "status": "passed",
-              "duration": 969183151
+              "duration": 966947374
             }
           },
           {
@@ -916,11 +916,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3830749
+              "duration": 3461691
             }
           }
         ],
@@ -940,11 +940,11 @@
             "line": 5,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 85122359
+              "duration": 84812364
             }
           },
           {
@@ -953,11 +953,11 @@
             "line": 6,
             "name": "that I have navigated to the position \"at the concert\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 97677648
+              "duration": 92907134
             }
           },
           {
@@ -966,11 +966,11 @@
             "line": 7,
             "name": "that my position is \"at the concert\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3404670
+              "duration": 3551669
             }
           },
           {
@@ -979,11 +979,11 @@
             "line": 8,
             "name": "I wait repeatedly until I die",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/lose-the-game.js:21"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/lose-the-game.js:21"
             },
             "result": {
               "status": "passed",
-              "duration": 352389511
+              "duration": 350303391
             }
           },
           {
@@ -992,11 +992,11 @@
             "line": 9,
             "name": "my position should be \"I died\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3653738
+              "duration": 3395533
             }
           }
         ],
@@ -1016,6 +1016,295 @@
     "elements": [
       {
         "description": "",
+        "id": "as-a-player-i-want-to-win-the-game-a-second-time-and-doing-so-by-taking-anonter-path.;someone-in-the-audience-throws-you-a-fiver",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Someone in the audience throws you a fiver",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 85294855
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "that I have navigated to the position \"at the concert\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 92292513
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that my position is \"at the concert\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2976127
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I wait long enough for the description to contain the text \"jam with us\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 100964447
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I click on the button \"Jam with the band\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 46804660
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "your money inscreases to 15",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:48"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3732342
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-player-i-want-to-win-the-game-a-second-time-and-doing-so-by-taking-anonter-path.;receiveing-a-beer-from-the-bartender",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "Receiveing a beer from the bartender",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "that I have navigated to the position \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 196412640
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "that my position is \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3116160
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 14,
+            "name": "I wait long enough for the description to contain the text \"The bartender offers you a can of beer for free\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 50861826
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 15,
+            "name": "my hipster bag should contain \"a can of beer\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4158843
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-player-i-want-to-win-the-game-a-second-time-and-doing-so-by-taking-anonter-path.;i-should-give-a-beer-to-the-barista",
+        "keyword": "Scenario",
+        "line": 17,
+        "name": "I should give a beer to the barista",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 18,
+            "name": "that I have navigated to the position \"inside the cafe\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 142665854
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2978598
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "I wait long enough for the description to contain the text \"if someone would just bring me a beer\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 148699949
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "I click on the button \"Give beer to barista\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 51417581
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "my hipster bag should contain \"nothing cool\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3145060
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-player-i-want-to-win-the-game-a-second-time-and-doing-so-by-taking-anonter-path.;win-the-game-a-second-time",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "Win the game a second time",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 25,
+            "name": "the description contain the text \"He pours you a double espresso\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:66"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4015380
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "I click repeatedly button \"Buy an espresso\" until I win",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:70"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 142663560
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 27,
+            "name": "my position should be \"I won\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3493155
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "as-a-player-i-want-to-win-the-game-a-second-time-and-doing-so-by-taking-anonter-path.",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "As a player I want to win the game a second time and doing so by taking anonter path.",
+    "tags": [],
+    "uri": "tests/features/win-the-game-again.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
         "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso;receiveing-a-beer-from-the-bartender",
         "keyword": "Scenario",
         "line": 3,
@@ -1027,11 +1316,11 @@
             "line": 4,
             "name": "that I have started the game by navigating to \"http://localhost:3000\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:7"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
             },
             "result": {
               "status": "passed",
-              "duration": 76473364
+              "duration": 85228529
             }
           },
           {
@@ -1040,11 +1329,11 @@
             "line": 5,
             "name": "that I have navigated to the position \"in a crowded bar\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 102525725
+              "duration": 91471088
             }
           },
           {
@@ -1053,11 +1342,11 @@
             "line": 6,
             "name": "that my position is \"in a crowded bar\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 2956805
+              "duration": 3398233
             }
           },
           {
@@ -1066,11 +1355,11 @@
             "line": 7,
             "name": "I wait long enough for the description to contain the text \"The bartender offers you a can of beer for free\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:23"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 52912682
+              "duration": 132877892
             }
           },
           {
@@ -1079,11 +1368,11 @@
             "line": 8,
             "name": "my hipster bag should contain \"a can of beer\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:35"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:35"
             },
             "result": {
               "status": "passed",
-              "duration": 3562649
+              "duration": 3164794
             }
           }
         ],
@@ -1103,11 +1392,11 @@
             "line": 11,
             "name": "that I have navigated to the position \"at the concert\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 194041261
+              "duration": 195355185
             }
           },
           {
@@ -1116,11 +1405,11 @@
             "line": 12,
             "name": "that my position is \"at the concert\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 2952796
+              "duration": 1827276
             }
           },
           {
@@ -1129,11 +1418,11 @@
             "line": 13,
             "name": "I wait long enough for the description to contain the text \"jam with us\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:23"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 188265495
+              "duration": 202397058
             }
           },
           {
@@ -1142,11 +1431,11 @@
             "line": 14,
             "name": "I click on the button \"Jam with the band\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 52615399
+              "duration": 50191690
             }
           },
           {
@@ -1155,11 +1444,11 @@
             "line": 15,
             "name": "your money inscreases to 15",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:48"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:48"
             },
             "result": {
               "status": "passed",
-              "duration": 4138186
+              "duration": 3677555
             }
           }
         ],
@@ -1168,10 +1457,10 @@
       },
       {
         "description": "",
-        "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso;i-should-give-a-beer-to-barista",
+        "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso;i-should-give-a-beer-to-the-barista",
         "keyword": "Scenario",
         "line": 17,
-        "name": "I should give a beer to barista",
+        "name": "I should give a beer to the barista",
         "steps": [
           {
             "arguments": [],
@@ -1179,11 +1468,11 @@
             "line": 18,
             "name": "that I have navigated to the position \"inside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:15"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 147613298
+              "duration": 144516698
             }
           },
           {
@@ -1192,11 +1481,11 @@
             "line": 19,
             "name": "that my position is \"inside the cafe\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:19"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 3170215
+              "duration": 2986982
             }
           },
           {
@@ -1205,11 +1494,11 @@
             "line": 20,
             "name": "I wait long enough for the description to contain the text \"if someone would just bring me a beer\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:23"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:23"
             },
             "result": {
               "status": "passed",
-              "duration": 101136124
+              "duration": 100567068
             }
           },
           {
@@ -1218,11 +1507,11 @@
             "line": 21,
             "name": "I click on the button \"Give beer to barista\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:43"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
             },
             "result": {
               "status": "passed",
-              "duration": 47481802
+              "duration": 45718862
             }
           },
           {
@@ -1231,11 +1520,11 @@
             "line": 22,
             "name": "my hipster bag should contain \"nothing cool\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:35"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:35"
             },
             "result": {
               "status": "passed",
-              "duration": 3015602
+              "duration": 2889104
             }
           }
         ],
@@ -1255,11 +1544,11 @@
             "line": 25,
             "name": "the description contain the text \"He pours you a double espresso\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:65"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:66"
             },
             "result": {
               "status": "passed",
-              "duration": 2884827
+              "duration": 3023284
             }
           },
           {
@@ -1268,11 +1557,11 @@
             "line": 26,
             "name": "I click repeatedly button \"Buy an espresso\" until I win",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:69"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:70"
             },
             "result": {
               "status": "passed",
-              "duration": 151178738
+              "duration": 146331115
             }
           },
           {
@@ -1281,11 +1570,11 @@
             "line": 27,
             "name": "my position should be \"I won\"",
             "match": {
-              "location": "file:/Volumes/T7/Kurser&utbildningar/Programvarutestare/7%20Testautomatisering/Lektion%205%20-%20playwright/Testautomatisering_Workshops-Jens-Playwrigth-Cucumber-e2e/tests/features/step-definitions/win-the-game.js:77"
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
             },
             "result": {
               "status": "passed",
-              "duration": 3597671
+              "duration": 3004159
             }
           }
         ],
