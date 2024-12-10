@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1451657307
+              "duration": 2137320404
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 500354636
+              "duration": 624409175
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1053130
+              "duration": 2638298
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 463674299
+              "duration": 481462583
             }
           },
           {
@@ -66,7 +66,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 63465808
+              "duration": 75920769
             }
           },
           {
@@ -74,7 +74,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 56870915
+              "duration": 61279375
             }
           }
         ],
@@ -93,7 +93,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1395501717
+              "duration": 1687296631
             }
           },
           {
@@ -106,7 +106,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 371931892
+              "duration": 512847104
             }
           },
           {
@@ -119,7 +119,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1787287
+              "duration": 1547325
             }
           },
           {
@@ -132,7 +132,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 461095924
+              "duration": 273149308
             }
           },
           {
@@ -145,7 +145,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 52125941
+              "duration": 57392014
             }
           },
           {
@@ -153,7 +153,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 55966887
+              "duration": 54355233
             }
           }
         ],
@@ -183,7 +183,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1452591862
+              "duration": 1502829201
             }
           },
           {
@@ -196,7 +196,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 792512174
+              "duration": 659846312
             }
           },
           {
@@ -209,7 +209,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2143868650
+              "duration": 2047070615
             }
           },
           {
@@ -222,7 +222,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 12837683
+              "duration": 12558504
             }
           },
           {
@@ -230,7 +230,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 54958275
+              "duration": 53741158
             }
           }
         ],
@@ -244,5 +244,362 @@
     "name": "Changing the window to full screen mode",
     "tags": [],
     "uri": "tests/features/fullScreen.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso;receiveing-a-beer-from-the-bartender",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Receiveing a beer from the bartender",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1454290423
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that I have started the game by navigating to \"http://localhost:3000\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:7"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 1602361,
+              "error_message": "TypeError: this.gotoUrl is not a function\n    at CustomWorld.<anonymous> (file:///Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:8:14)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "that I have navigated to the position \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "that my position is \"in a crowded bar\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I wait long enough for the description to contain the text \"The bartender offers you a can of beer for free\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:23"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "my hipster bag should contain \"a can of beer\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:35"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 52137466
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso;someone-in-the-audience-throws-you-a-fiver",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Someone in the audience throws you a fiver",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1479052908
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 11,
+            "name": "that I have navigated to the position \"at the concert\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 1524393,
+              "error_message": "ReferenceError: navigateTo is not defined\n    at CustomWorld.<anonymous> (file:///Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:16:3)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "that my position is \"at the concert\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "I wait long enough for the description to contain the text \"jam with us\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:23"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "I click on the button \"Jam with the band\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 15,
+            "name": "your money inscreases to 15",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:48"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 53118200
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso;i-should-give-a-beer-to-the-barista",
+        "keyword": "Scenario",
+        "line": 17,
+        "name": "I should give a beer to the barista",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1498641016
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 18,
+            "name": "that I have navigated to the position \"inside the cafe\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:15"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 1460644,
+              "error_message": "ReferenceError: navigateTo is not defined\n    at CustomWorld.<anonymous> (file:///Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:16:3)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "that my position is \"inside the cafe\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:19"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "I wait long enough for the description to contain the text \"if someone would just bring me a beer\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:23"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 21,
+            "name": "I click on the button \"Give beer to barista\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:43"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "my hipster bag should contain \"nothing cool\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:35"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 53259522
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso;win-the-game",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "Win the game",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1443973615
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 25,
+            "name": "the description contain the text \"He pours you a double espresso\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:66"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 1541289,
+              "error_message": "ReferenceError: checkIfDescriptionContainsString is not defined\n    at CustomWorld.<anonymous> (file:///Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:67:14)"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "I click repeatedly button \"Buy an espresso\" until I win",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:70"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 27,
+            "name": "my position should be \"I won\"",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/win-the-game.js:78"
+            },
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 51471849
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "as-a-player-i-want-to-win-in-case-i-get-5-espresso",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "As a player I want to win in case i get 5 espresso",
+    "tags": [],
+    "uri": "tests/features/win-the-game.feature"
   }
 ]
