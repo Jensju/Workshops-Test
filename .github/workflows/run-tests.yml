@@ -4,15 +4,9 @@ name: Node.js CI
 # in which branch(es) should start the jobs...
 on:
   push:
-    branches: [main, workshop-1-selenium]
+    branches: [main, dev, workshop-1-selenium]
   pull_request:
-    branches: [main, workshop-1-selenium]
-  # add branch-protection-rules in github for main (require pull-request)
-  # then add another branch and try to make a pull-request in github
-  # to merge your branch into main:
-  # - the following will happens: these tests will run
-  # - and a report of success/failure will be shown to the person
-  #   approving the pull request
+    branches: [main, dev, workshop-1-selenium]
 
 # jobs to run
 jobs:

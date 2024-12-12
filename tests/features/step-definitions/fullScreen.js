@@ -2,7 +2,7 @@ import { Given, When, Then } from '@cucumber/cucumber';
 import { By, until, Key } from 'selenium-webdriver';
 import { expect } from 'chai';
 
-//this.driver.get (selenium) = Cy.visit (i Cypress)
+//this.driver.get (selenium) = Cy.visit (in Cypress)
 
 Given('that I have started the game at {string}', async function (url) {
   await this.driver.get(url);

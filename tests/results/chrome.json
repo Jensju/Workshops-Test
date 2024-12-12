@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1521649628
+              "duration": 1444527667
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 591521078
+              "duration": 806184356
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2402034
+              "duration": 2349725
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 273081092
+              "duration": 51690606
             }
           },
           {
@@ -66,7 +66,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 73444918
+              "duration": 58163262
             }
           },
           {
@@ -74,7 +74,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 64076833
+              "duration": 55481898
             }
           }
         ],
@@ -93,7 +93,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1459504369
+              "duration": 1430180396
             }
           },
           {
@@ -106,7 +106,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 608867618
+              "duration": 448837255
             }
           },
           {
@@ -119,7 +119,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1861656
+              "duration": 1794026
             }
           },
           {
@@ -132,7 +132,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 258734850
+              "duration": 466797047
             }
           },
           {
@@ -145,7 +145,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 56160156
+              "duration": 49867684
             }
           },
           {
@@ -153,7 +153,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 54209558
+              "duration": 53897564
             }
           }
         ],
@@ -167,6 +167,359 @@
     "name": "All button play",
     "tags": [],
     "uri": "tests/features/buttons.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "explore-the-cafe;start-outside-the-cafe-and-see-the-cafe-image",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Start outside the cafe and see the cafe image",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1410520370
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that I am outside the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 684660546
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "I wait without taking action",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:57"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2001706768
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "I should see an image of the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 21768325
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "I should see a descriptive text explaining the scenario",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 20813828
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 55356510
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "explore-the-cafe;enter-the-cafe-and-view-the-inside-image",
+        "keyword": "Scenario",
+        "line": 9,
+        "name": "Enter the cafe and view the inside image",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1369369854
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 10,
+            "name": "that I am outside the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 474304165
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "I click the \"Enter the cafe\" button",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 465462280
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "I should see an image displayed inside the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17449141
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "I should see a descriptive text explaining the scenario",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 20816087
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 54040338
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "explore-the-cafe;buy-an-espresso-and-check-player-stats",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "Buy an espresso and check player stats",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1403861479
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 16,
+            "name": "that I am outside the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1490237256
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "I click the \"Enter the cafe\" button",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 49736975
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "I click the \"Buy an espresso\" button",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 38056764
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 19,
+            "name": "I should see the number of espressos increase to 1",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 28763713
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "my money should be 5",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:52"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17794640
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "my health should be 60",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:42"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17895218
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 51399274
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "explore-the-cafe;check-player's-money-and-health-status",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "Check player's money and health status",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1435799680
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 24,
+            "name": "that I am outside the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 888150338
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 25,
+            "name": "I wait without taking action",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:57"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2002740811
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "my health should be 50",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:42"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 25881330
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "my money should be 10",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:52"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 16009544
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 52109902
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "explore-the-cafe",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Explore the Cafe",
+    "tags": [],
+    "uri": "tests/features/exploreCafe.feature"
   },
   {
     "description": "  As a user I want to be able to turn on and of a \n  full screen mode when playing the game.",
@@ -183,7 +536,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1466029404
+              "duration": 1466119466
             }
           },
           {
@@ -196,7 +549,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 442110817
+              "duration": 826186189
             }
           },
           {
@@ -209,7 +562,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2050659257
+              "duration": 2126197613
             }
           },
           {
@@ -222,7 +575,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 14260500
+              "duration": 13716237
             }
           },
           {
@@ -230,7 +583,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 55306892
+              "duration": 54257005
             }
           }
         ],
@@ -244,5 +597,358 @@
     "name": "Changing the window to full screen mode",
     "tags": [],
     "uri": "tests/features/fullScreen.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "explore-the-cafe;start-outside-the-cafe-and-see-the-cafe-image",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Start outside the cafe and see the cafe image",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1423620355
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "that I am outside the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 428774756
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "I wait without taking action",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:57"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2002746186
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "I should see an image of the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 20025807
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "I should see a descriptive text explaining the scenario",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 18820299
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 51173688
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "explore-the-cafe;enter-the-cafe-and-view-the-inside-image",
+        "keyword": "Scenario",
+        "line": 9,
+        "name": "Enter the cafe and view the inside image",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1365702452
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 10,
+            "name": "that I am outside the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 443278938
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "I click the \"Enter the cafe\" button",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 463604014
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "I should see an image displayed inside the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17459508
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "I should see a descriptive text explaining the scenario",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 22462678
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 51225044
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "explore-the-cafe;buy-an-espresso-and-check-player-stats",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "Buy an espresso and check player stats",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1486758620
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 16,
+            "name": "that I am outside the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 501878544
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "I click the \"Enter the cafe\" button",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 257057477
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "I click the \"Buy an espresso\" button",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:7"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 36638581
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 19,
+            "name": "I should see the number of espressos increase to 1",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/exploreCafe.js:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 22247272
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "my money should be 5",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:52"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15541472
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "my health should be 60",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:42"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15766088
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 51389645
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "explore-the-cafe;check-player's-money-and-health-status",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "Check player's money and health status",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1352970613
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 24,
+            "name": "that I am outside the cafe",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 513276086
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 25,
+            "name": "I wait without taking action",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:57"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2001673796
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "my health should be 50",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:42"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 25049585
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "my money should be 10",
+            "match": {
+              "location": "file:/Users/jenssjunnesson/GitHub-project/Workshops-Test/tests/features/step-definitions/commonSteps.js:52"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13704515
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 50984806
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "explore-the-cafe",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Explore the Cafe",
+    "tags": [],
+    "uri": "tests/features/helpButton.feature"
   }
 ]
