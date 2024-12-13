@@ -3,7 +3,7 @@
 // and have special settings in support/world.js
 export const browser = 'chrome';
 // run headless (don't show browser)
-export const headless = false;
+export const headless = true;
 // max execution time
 export const timeout = 30000;
 // to run in 'slow motion' increase this time
