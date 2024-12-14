@@ -4,7 +4,7 @@ import { expect } from 'chai';
 
 
 //Receiveing a beer from the bartender
-Given('that I have started the game by navigating to {string}', async function (url) {
+Given('that I have started the game {string}', async function (url) {
   await this.gotoUrl(url);
   // Important: wait for the relevant DOM element(s) to exist
   // Same step tobe repeated in loose the game...
@@ -63,7 +63,7 @@ Then('your money inscreases to {float}', async function (expectedMoney) {
 //Repeated from earlier steps.
 
 //Win the game
-When('the description contain the text {string}', async function (b) {
+When('the description contain {string}', async function (b) {
   let text = await checkIfDescriptionContainsString(this, b, true)
 });
 

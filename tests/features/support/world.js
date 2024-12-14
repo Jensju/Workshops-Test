@@ -14,12 +14,12 @@ class CustomWorld {
       .forBrowser(browser)
       .build();
   }
-}
+// }
 
-class CustomWorld {
-  constructor() {
-    this.driver = driver;
-  }
+// class CustomWorld {
+//   constructor() {
+//     this.driver = driver;
+//   }
 
   gotoUrl(url) {
     return this.driver.get(url);

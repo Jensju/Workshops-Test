@@ -1,7 +1,7 @@
 Feature: As a player I want to win in case i get 5 espresso
 
   Scenario: Receiveing a beer from the bartender
-    Given that I have started the game by navigating to "http://localhost:3000"
+    Given that I have started the game "http://localhost:3000"
     And that I have navigated to the position "in a crowded bar"
     And that my position is "in a crowded bar"
     When I wait long enough for the description to contain the text "The bartender offers you a can of beer for free"
@@ -22,6 +22,6 @@ Feature: As a player I want to win in case i get 5 espresso
     Then my hipster bag should contain "nothing cool"
 
   Scenario: Win the game
-    When the description contain the text "He pours you a double espresso"
+    When the description contain "He pours you a double espresso"
     Then I click repeatedly button "Buy an espresso" until I win
     Then my position should be "I won"
