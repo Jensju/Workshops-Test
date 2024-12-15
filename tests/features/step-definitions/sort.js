@@ -1,7 +1,5 @@
-
 import { Given, When, Then } from '@cucumber/cucumber';
 import { expect } from 'chai';
-
 
 
 /*Then('sub categories should be sorted by alphabetically', function () {
@@ -23,11 +21,9 @@ if (this.json?.children && Array.isArray(this.json.children)) {
 }
 console.log('this.json structure:', this.json);
 
-
 });*/
 
 Then('sub categories should be sorted by alphabetically', function () {
-
 
   // Ensure `this.json` exists and check if `subCategories` is in the expected format
   if (!this.json || !this.json.subCategories || !Array.isArray(this.json.subCategories)) {
@@ -47,6 +43,5 @@ Then('sub categories should be sorted by alphabetically', function () {
 
   // Now check if the original subcategories list is the same as the sorted one
   expect(this.json.subCategories.map(x => x.name)).to.eql(sortedSubcategories);
-
 
 });

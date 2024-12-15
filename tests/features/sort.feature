@@ -10,7 +10,6 @@ Feature:Sub categories sorting
     And the response time should be below 1000 milliseconds
     And there should be at least 10 main categories
 
-
   Scenario Outline: Checking subcategories sorting alphabetically
     When I visit the endpoint "GET" "/api/c/{categoryUrlPart}?size=70&page=0&sort=name-asc"
     Then the status code of the response should be 200
