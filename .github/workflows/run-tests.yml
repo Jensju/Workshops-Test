@@ -42,6 +42,7 @@ jobs:
       # run with nohup (no hangup) in order to 
       # not block the terminal so we can still run test
     - run: nohup node backend/index.js &
-      # run whatever is specified in package.json
-      # for the script test
+    # Runing newman-test in same branch
+    - run: npm run newman-test
+    # Runing test for Cucumber Chai endpoint-test with run test
     - run: npm test
