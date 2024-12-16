@@ -5,10 +5,13 @@ Then('there should be at least {float} categories', async function (numberOfCate
 
   // recurse through category children to find all sub-categories
   let categoryUrls = [];
-  function getAll(children) {
+  function getAll(children, level = 1) {
+    if (level > 2) {
+      return
+    }
     for (let child of children) {
       categoryUrls.push(child.url);
-      if (child.children) { getAll(child.children); }
+      if (child.children) { getAll(child.children, level + 1); }
     }
   }
   getAll(this.json.children);
